@@ -1,0 +1,2 @@
+Only Pylance is supported in untrusted workspaces, setting language server to None.
+Editor support is inactive since language server is set to None.

@@ -1,0 +1,6 @@
+torch
+imutils
+torchvision
+opencv-python==4.5.5.64
+sphinx-togglebutton
+skimage
